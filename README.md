@@ -12,7 +12,7 @@
                 "name": "demo/composer",
                 "version": "dev-master",
                 "source": {
-                    "url": "https://github.com/juanber84/composer-demo-package-composer-json.git",
+                    "url": "https://github.com/juanber84/composer-demo-package-without-composer-json.git",
                     "type": "git",
                     "reference": "origin/master"
                 },
