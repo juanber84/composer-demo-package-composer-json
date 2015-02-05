@@ -3,8 +3,7 @@
 
 ## How load the library
 
-<<<<<<< HEAD
-``
+```
 {
     "repositories": [
         {
