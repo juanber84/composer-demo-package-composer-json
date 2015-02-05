@@ -1,4 +1,4 @@
-# composer-demo-package-composer-json
+# Composer demo package without composer.json
 
 
 ## How load the library
