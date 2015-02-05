@@ -3,6 +3,7 @@
 
 ## How load the library
 
+<<<<<<< HEAD
 ``
 {
     "repositories": [
@@ -12,7 +13,7 @@
                 "name": "demo/composer",
                 "version": "dev-master",
                 "source": {
-                    "url": "https://github.com/ElevenPaths/latch-sdk-php.git",
+                    "url": "https://github.com/juanber84/composer-demo-package-composer-json.git",
                     "type": "git",
                     "reference": "origin/master"
                 },
@@ -25,7 +26,7 @@
     "require": {
         "demo/composer": "dev-master"
     }
-}`
+}
 ```
 
 ## Usage
