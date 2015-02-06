@@ -1,7 +1,7 @@
 # Composer demo package without composer.json
 
 
-## How load the library
+## How to load the library
 
 ```
 {
